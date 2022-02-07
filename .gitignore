@@ -1,0 +1,11 @@
+.vscode/
+.idea/
+.history/
+.DS_Store
+.push.settings.jsonc
+
+**/vendor
+**/node_modules
+
+composer.lock
+/phpcs.xml
